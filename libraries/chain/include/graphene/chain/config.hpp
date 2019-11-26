@@ -43,7 +43,7 @@
 #define GRAPHENE_MAX_SHARE_FOUNDATION  (int64_t(2800000000ll) * GRAPHENE_BLOCKCHAIN_PRECISION)
 #define GRAPHENE_MAX_SHARE_MINER       (int64_t( 700000000ll) * GRAPHENE_BLOCKCHAIN_PRECISION)
 
-#define GRAPHENE_CODE_TEST   1                                              
+//#define GRAPHENE_CODE_TEST   1                                              
                                             
 
 #define GRAPHENE_MAX_PAY_RATE 10000 /* 100% */
