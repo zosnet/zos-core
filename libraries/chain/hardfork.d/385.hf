@@ -1,0 +1,5 @@
+// #385 October 23 enforce PARENT.CHILD and allow short names
+// 2019/3/9 0:0:0
+#ifndef HARDFORK_190309_TIME 
+#define HARDFORK_190309_TIME (fc::time_point_sec( 1552060800 ))
+#endif

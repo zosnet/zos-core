@@ -1,0 +1,14 @@
+// #415 Default accept policy for asset with no whitelist authorities  2020/11/5 0:0:0
+//#ifndef HZARDFORK_415_TIME
+//#define HZARDFORK_415_TIME (fc::time_point_sec( 1575129600 ))
+//#endif
+
+
+// #415 Default accept policy for asset with no whitelist authorities  2019/10/1 0:0:0
+#ifndef HARDFORK_191001_TIME
+#define HARDFORK_191001_TIME (fc::time_point_sec( 1569859200 ))
+#endif
+
+
+
+ 

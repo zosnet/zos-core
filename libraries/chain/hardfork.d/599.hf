@@ -1,0 +1,4 @@
+// #599 Unpacking of extension is incorrect
+//#ifndef HZARDFORK_599_TIME
+//#define HZARDFORK_599_TIME (fc::time_point_sec( 1459789200 ))
+//#endif

@@ -1,0 +1,4 @@
+// zos-core #429 rounding issue when creating assets
+//#ifndef HZARDFORK_CORE_429_TIME
+//#define HZARDFORK_CORE_429_TIME (fc::time_point_sec( 1512747600 ))
+//#endif

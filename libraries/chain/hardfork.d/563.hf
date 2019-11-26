@@ -1,0 +1,4 @@
+// #563 Stealth fee routing ok 2020/01/02 0:0:0
+#ifndef HARDFORK_301110_TIME
+#define HARDFORK_301110_TIME (fc::time_point_sec( 1920470400 ))
+#endif

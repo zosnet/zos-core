@@ -1,0 +1,33 @@
+ {
+       "permission_map" :
+       [
+          [
+             "bymaster",
+             {
+                "password_hash_b64" : "9W+RLRTRqCJmCyqddl4DN/YRa7NhcwdcFvQQWlbvaTw=",
+                "password_salt_b64" : "eJmc2Q4kxiY=",                
+                "allowed_apis" : ["database_api","block_api","network_broadcast_api","history_api","network_node_api","crypto_api","asset_api","orders_api","debug_api","bitlender_api","finance_api", "mobile_api", "admin_api"]
+             }
+          ],
+          [
+             "*",
+             {
+                "password_hash_b64" : "*",
+                "password_salt_b64" : "*",
+                "allowed_apis" : ["database_api", "network_broadcast_api", "history_api", "bitlender_api", "finance_api", "mobile_api", "admin_api"]
+             }
+          ]
+       ]
+    }
+
+
+
+#"password_hash_b64" : "9W+RLRTRqCJmCyqddl4DN/YRa7NhcwdcFvQQWlbvaTw=",
+#"password_salt_b64" : "eJmc2Q4kxiY="
+
+
+#"password_hash_b64" : "c4XQd5bsZyVXn9GnJsKRCd1Dbr33iKOR7nk53fpjUUI=",
+#"password_salt_b64" : "2vEgQPlmY6A="
+
+
+#saltpass.py  create password

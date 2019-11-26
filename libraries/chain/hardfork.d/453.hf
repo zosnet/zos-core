@@ -1,0 +1,4 @@
+// #453 Hardfork to retroactively correct referral percentages 2020/2/1 0:0:0
+#ifndef HARDFORK_200101_TIME
+#define HARDFORK_200101_TIME (fc::time_point_sec( 1577808000 ))
+#endif

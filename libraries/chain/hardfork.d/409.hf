@@ -1,0 +1,4 @@
+// #409 Allow creation of sub-assets
+//#ifndef HZARDFORK_409_TIME
+//#define HZARDFORK_409_TIME (fc::time_point_sec( 1446652800 ))
+//#endif

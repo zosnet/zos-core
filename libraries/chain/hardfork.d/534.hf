@@ -1,0 +1,9 @@
+// #534  ok 2020/2/1 0:0:0
+#ifndef HARDFORK_201201_TIME
+#define HARDFORK_201201_TIME (fc::time_point_sec( 1606752000 ))
+#endif
+
+ 
+ 
+
+

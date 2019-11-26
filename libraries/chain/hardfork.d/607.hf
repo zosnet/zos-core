@@ -1,0 +1,4 @@
+// #607 Disable negative voting on workers 2030/1/1 1:0:0  ok
+#ifndef HARDFORK_300101_TIME
+#define HARDFORK_300101_TIME (fc::time_point_sec( 1893430800 ))
+#endif

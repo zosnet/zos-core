@@ -1,0 +1,4 @@
+// #538 Buyback accounts
+//#ifndef HZARDFORK_538_TIME
+//#define HZARDFORK_538_TIME (fc::time_point_sec( 1456250400 ))
+//#endif

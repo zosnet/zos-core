@@ -1,0 +1,4 @@
+// #533 Improve vote counting implementation ok 2019/12/1 0:0:0
+#ifndef HARDFORK_201230_TIME
+#define HARDFORK_201230_TIME (fc::time_point_sec( 1609257600 ))
+#endif
